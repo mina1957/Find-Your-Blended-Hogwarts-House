@@ -1,5 +1,5 @@
 # Find-Your-Blended-Hogwarts-House
-'''Disclaimer: NOT INTENDED FOR MUGGLES!'''
+## Warning ⚠️: NOT INTENDED FOR MUGGLES! 
 
 ![giphy (41)](https://user-images.githubusercontent.com/50711847/177227560-a77973d7-95ff-45cb-9fcd-6de9a64a45f0.gif)
 

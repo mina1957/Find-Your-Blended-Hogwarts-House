@@ -129,8 +129,8 @@ function check() {
 
 
     document.getElementById("after sort").style.visibility = "visible";
-    document.getElementById("blended house").innerHTML = "Your blended house iiiis...🥁:\n" + houses[0][0].toUpperCase() + houses[0].slice(1) + "-" + houses[1][0].toUpperCase() + houses[1].slice(1);
+    document.getElementById("blended house").innerHTML = "Your blended house iiiis...🥁:\n" + houses[0][0].toUpperCase() + houses[0].slice(1) + "-" + houses[1][0].toUpperCase() + houses[1].slice(1)+ ". FYI: Your most prominent house was placed first in the name ;)!";
 
-    window.scrollBy(0, 450);
+    window.scrollBy(0, 800);
 
 }

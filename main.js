@@ -121,7 +121,7 @@ function check() {
     if (sum < 10) {
         alert("Respond to all questions !!");
         refreshPage();
-        window.scrollBy(0, -800);
+        window.scrollBy(0, -800000);
     }
 
 
